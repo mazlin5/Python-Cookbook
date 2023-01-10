@@ -1,0 +1,17 @@
+LINKED lists
+------------
+
+1. linked lists do not have indexes
+2. nodes spread out through memory using pointers
+3. head points to [0] tail [last]
+4. normal lists are contiguous in memory (index)
+
+Big0
+
+1. appending to head or tail = O(1)
+2. appending at center of list = O(n)
+    -- traverse though list and find node then insert
+3. removing from middle
+        - .pop() - traverse = O(n)
+4. find a # by value = O(n)
+5. node = value and pointer - a dictionary

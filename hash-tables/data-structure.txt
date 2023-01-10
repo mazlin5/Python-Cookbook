@@ -1,0 +1,23 @@
+1. pass key into h(f) and returns address or index 
+     - generates a value of fixed len
+2. efficient data access
+    - pass key and retreive index 
+3. insert, lookup, delete, search - o(1)
+
+# dict = hash table data structure 
+user = {
+    age: 54,
+    name: 'malik',
+    magic: true,
+    scream: function() {
+        print('hello)
+    }
+}
+
+user[i] = key  o(1)
+
+******* KNOW ******
+
+fundamental differences you can pretty much only point out that dict values are accessible by keys, 
+which could be of any immutable type, while list values are indexed with integers. That's it :-)
+
