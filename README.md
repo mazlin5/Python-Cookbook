@@ -1,5 +1,5 @@
-# Technical-Interview-Cookbook
-This repo contains a collection of Python data structure concept with examples. The problems cover a range of topics and difficulty levels and helped prepare for technical interviews. The solutions provided are my own personal solutions and may not be the only or most optimal way to solve the problems. 
+# Python Cheatsheet
+This repo contains a collection of Python data structure concepts with coding examples. The solutions provided are my own personal solutions and may not be the only or most optimal way to solve the problems. 
 
 Goals
 
