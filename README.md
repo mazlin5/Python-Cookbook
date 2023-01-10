@@ -3,7 +3,7 @@ This repo contains a collection of Python data structure concepts with coding ex
 
 Goals
 
-The goal of this repository is to provide a collection of solutions to Python data structures and algorithms problems I've encountered throughout my engineering career. 
+The goal of this repository is to provide real-world technical problems I've encountered throughout my engineering career. 
 
 Contents
 
