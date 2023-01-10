@@ -16,7 +16,7 @@ This repository contains solutions to the following types of problems:
 - Recursion
 - Dynamic Programming
 - BST
-And more!
+- And more!
 
 Contributing
 
